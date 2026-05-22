@@ -1,4 +1,4 @@
-webfont
+﻿webfont
 工具 > 字形變換器 > outlines 
 move(0,150) 上移150
 
@@ -22,6 +22,17 @@ V3
 LSB 固定0 沒辦法動
 RSB 設110
 AW 會自動變成110
+
+中文標點符號
+https://zh.wikipedia.org/zh-tw/标点符号
+１２３４５６７８９０
+	，。、：；？！—…．
+「」﹁﹂ 『』﹃﹄
+（）〔〕｛｝【】
+〈〉《》
+這些
+編輯 > 尋找
+工具 > 字形變換器 width (fixed 600) both side
 
 
 LSB 左間距 
