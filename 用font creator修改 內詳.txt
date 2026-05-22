@@ -1,0 +1,36 @@
+webfont
+工具 > 字形變換器 > outlines 
+move(0,150) 上移150
+
+半形
+編輯 > 尋找
+$0000-$00FF
+
+工具 > 自動度量 > 固定軸線
+全部  之前0 之後110 
+V2
+半形 之前0 之後55 
+覺得醜
+
+所以半形再改
+V3
+視覺 20 比例數字
+
+
+發現空白(有兩個 跟別人設定不一樣)
+LSB 固定0 沒辦法動
+RSB 設110
+AW 會自動變成110
+
+
+LSB 左間距 
+RSB 右間距
+AW 字寬
+TSB 頂邊距 
+BSB 底邊距
+
+Left Side Bearing
+Right Side Bearing
+Advance Width
+Top Side Bearing
+Bottom Side Bearing
